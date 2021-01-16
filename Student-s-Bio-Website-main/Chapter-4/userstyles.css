@@ -1,0 +1,9 @@
+/* Fig. 4.19: userstyles.css */
+/* A user style sheet */
+body     { font-size: 20pt;
+           color: yellow;
+           background-color: Navy; }
+
+            <form>
+        <input type="button" value="Go back!" onclick="history.back()">
+      </form>
