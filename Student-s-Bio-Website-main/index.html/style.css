@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(./assets/bg1.jpg);
+}
+
+img {
+    border-radius: 2%;
+
+}
+img:hover {
+    opacity: 85%;
+}
+
+h1 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 40px;
+}
+.container {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+ul a {
+    color: rgb(117, 117, 117);
+    text-decoration: none;
+}
+ul a:hover {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.349);
+}
+
